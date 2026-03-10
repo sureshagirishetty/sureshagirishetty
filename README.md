@@ -1,4 +1,4 @@
-# 💫 About Me:
+#summary :
 Enthusiastic B.Tech graduate specializing in Cyber Security with a strong interest in software development, cloud, and DevOps. <br>I enjoy building web applications and learning modern development tools. Currently seeking opportunities to grow as a developer and contribute to real-world projects.<br><br>About Me<br><br>🔭 I’m currently working on<br><br>Java and web development projects<br><br>👯 I’m looking to collaborate on<br><br>Open-source web development and beginner-friendly Java projects<br><br>🤝 I’m looking for help with<br><br>DevOps tools and scalable backend systems<br><br>🌱 I’m currently learning<br><br>Java Full Stack Development and DevOps practices<br><br>💬 Ask me about<br><br>Java, HTML, CSS, JavaScript, Spring Boot and beginner DevOps<br><br>⚡ Fun fact<br><br>I enjoy exploring new technologies and turning ideas into small projects
 
 
