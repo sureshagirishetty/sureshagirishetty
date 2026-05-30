@@ -15,9 +15,9 @@ I'm currently seeking roles in **Security Analysis, Java Development, or SRE/Inf
 
 - 🔭 &nbsp;Currently working on: **Java & web development projects**
 - 🌱 &nbsp;Learning: **Spring Boot, AWS, DevOps practices**
-- 💬 &nbsp;Ask me about: **Cybersecurity, Python ML, Java, HTML/CSS**
+- 💬 &nbsp;Ask me about: **Cybersecurity, Python, ML, Java & HTML/CSS**
 - 📍 &nbsp;Based in: **Hyderabad, India**
-- 📄 &nbsp;Certifications: Java Full Stack (Sonata/CV Corp) · DevOps (GFG) · Mastercard, DEloitte & Tata Forage Simulations
+- 📄 &nbsp;Certifications: Java Full Stack (Sonata/CV Corp) · DevOps (GFG) · Mastercard, Deloitte & Tata Forage Simulations
 
 ---
 
