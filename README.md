@@ -17,7 +17,7 @@ I'm currently seeking roles in **Security Analysis, Java Development, or SRE/Inf
 - 🌱 &nbsp;Learning: **Spring Boot, AWS, DevOps practices**
 - 💬 &nbsp;Ask me about: **Cybersecurity, Python ML, Java, HTML/CSS**
 - 📍 &nbsp;Based in: **Hyderabad, India**
-- 📄 &nbsp;Certifications: Java Full Stack (Sonata/CV Corp) · DevOps Bootcamp (GFG) · Mastercard & Tata Forage Simulations
+- 📄 &nbsp;Certifications: Java Full Stack (Sonata/CV Corp) · DevOps (GFG) · Mastercard, DEloitte & Tata Forage Simulations
 
 ---
 
@@ -73,11 +73,11 @@ I'm currently seeking roles in **Security Analysis, Java Development, or SRE/Inf
 
 ### 📜 Certifications & Simulations
 
-- 🏅 **Java Full Stack Development** — Sonata / CV Corp &nbsp;`2024`
-- 🏅 **DevOps Bootcamp** — GeeksforGeeks &nbsp;`2025`
-- 🏅 **Cybersecurity Virtual Simulation** — Mastercard × Forage
-- 🏅 **Cybersecurity Virtual Simulation** — Tata Group × Forage
-
+- 🏅 **Java Full Stack Development** — Sonata / CV Corp &nbsp;`2025`
+- 🏅 **DevOps Bootcamp** — GeeksforGeeks &nbsp;`2026`
+- 🏅 **Cybersecurity Virtual Simulation** — Mastercard × Forage &nbsp;`2026`
+- 🏅 **Cybersecurity Virtual Simulation** — Tata Group × Forage &nbsp;`2026`
+- 🏅 **Cybersecurity Virtual Simulation** — Deloitte × Forage &nbsp;`2026`
 ---
 
 ### 🤝 Connect with Me
