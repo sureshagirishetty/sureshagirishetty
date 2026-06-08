@@ -60,9 +60,10 @@ I'm currently seeking roles in **Security Analysis, Java Development, or SRE/Inf
 ---
 
 ### 📜 Certifications & Simulations
-
+- 🏅 **Software Engineer** — HackerRank &nbsp;`2026`
 - 🏅 **Java Full Stack Development** — Sonata / CV Corp &nbsp;`2025`
 - 🏅 **DevOps Bootcamp** — GeeksforGeeks &nbsp;`2026`
+- 🏅 **Advanced Software Engineering Job Simulation** — Walmart × Forage &nbsp;`2026`
 - 🏅 **Cybersecurity Virtual Simulation** — Mastercard × Forage &nbsp;`2026`
 - 🏅 **Cybersecurity Virtual Simulation** — Tata Group × Forage &nbsp;`2026`
 - 🏅 **Cybersecurity Virtual Simulation** — Deloitte × Forage &nbsp;`2026`
