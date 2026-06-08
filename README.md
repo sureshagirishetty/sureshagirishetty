@@ -59,18 +59,6 @@ I'm currently seeking roles in **Security Analysis, Java Development, or SRE/Inf
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Suresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sureshagirishetty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshagirishetty&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 📜 Certifications & Simulations
 
 - 🏅 **Java Full Stack Development** — Sonata / CV Corp &nbsp;`2025`
